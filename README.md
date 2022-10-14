@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplikasi-Manajemen-Rapat-dan-Anggaran-Acara-Dinaskertrans-Banjar
 
 <<<<<<< HEAD
@@ -9,3 +10,6 @@ ser admin nip : 12345 pass:admin
 
 >>>>>>> revisi
 user kadis nip:1122 pass:kadis
+=======
+# Aplikasi-Manajemen-Rapat-dan-Anggaran-Acara-Dinaskertrans-Banjar
+>>>>>>> ok
